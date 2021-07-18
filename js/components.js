@@ -12,7 +12,7 @@ const jobs=[
         id:1,
         title:'Desarrollador Junior',
         subtitle:'Grupo MRB',
-        description:'Desarrollar aplicaciones web (cliente y servidor) y aplicaciones móviles para agilizar los procesos de la empresa.',
+        description:'Encargado del desarrollo de aplicaciones de servidor con nodeJs y tanto REST APIs como GraphQL APIs y aplicaciones móviles con Flutter. He implementado en proyectos de logística de entrega de pedidos a domicilio, tanto dashboards como aplicaciones móviles para el tracking de pilotos y sistemas de E-commerce con Open Commerce de Mailchimp.',
         trailing:'Noviembre 2019 - Actualidad'
     }
 ]
@@ -35,7 +35,7 @@ const education = [
         id:3,
         title:'Universidad Mariano Gálvez de Guatemala',
         subtitle:'Ingeniería en Sistemas de la información',
-        description:'Cursando tercer semestre',
+        description:'Cursando cuarto semestre',
         trailing:'Enero 2020 - Actualidad'
     }
 ]
