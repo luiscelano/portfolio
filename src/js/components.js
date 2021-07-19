@@ -12,7 +12,7 @@ const jobs=[
         id:1,
         title:'Desarrollador Junior',
         subtitle:'Grupo MRB',
-        description:'Encargado del desarrollo de aplicaciones de servidor con nodeJs y tanto REST APIs como GraphQL APIs y aplicaciones móviles con Flutter. He implementado en proyectos de logística de entrega de pedidos a domicilio, tanto dashboards como aplicaciones móviles para el tracking de pilotos y sistemas de E-commerce con Open Commerce de Mailchimp.',
+        description:'Encargado del desarrollo de aplicaciones de servidor con nodeJs, tanto REST APIs como GraphQL APIs y aplicaciones móviles con Flutter. He implementado en proyectos de logística de entrega de pedidos a domicilio, tanto dashboards como aplicaciones móviles para el tracking de pilotos y sistemas de E-commerce con Open Commerce de Mailchimp.',
         trailing:'Noviembre 2019 - Actualidad'
     }
 ]
