@@ -1,7 +1,7 @@
 {
   "homepage": "http://luiscelano.github.io/portfolio",
   "name": "my-portfolio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Luis Celano´s Portfolio",
   "main": "index.js",
   "scripts": {
